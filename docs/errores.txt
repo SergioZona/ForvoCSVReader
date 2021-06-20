@@ -1,0 +1,5 @@
+ERRORES DE LOGIN EN GOOGLE CON DRIVER:
+https://stackoverflow.com/questions/60117232/selenium-google-login-block
+
+ERRORES AL EXPORTAR:
+https://stackoverflow.com/questions/30688368/java-selenium-chromedriver-exe-does-not-exist-illegalstateexception
